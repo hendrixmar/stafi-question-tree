@@ -1,0 +1,15 @@
+question,node,next_node,include
+EO: When did the applicant first enter the United States?,42,70,1
+EO: When was the applicant's most recent entry into the United States?,70,44,1
+How did the applicant last enter the United States?,44,45,1
+EO: Has the applicant ever submitted applications for any immigration benefits?,45,47,1
+EO: Are or were the applicant's parents or grandparents citizens of the United States?,48,49,1
+EO: Is the applicant presently married?,49,54,0
+EO: What is the applicant's current relationship status with their partner?,52,54,0
+EO: Does the applicant have any children in common with a US citizen or Legal Permanent Resident?,54,55,0
+"EO: Does the applicant have a family member that is a United States citizen (Spouse, parents, siblings, partners, children) who is willing to petition for them?",55,56,1
+EO: Has the applicant previously worked in the United States?,56,57,0
+EO: Can I kindly ask if the applicant has ever been involved in any activities that might have been considered a crime?,57,58,1
+EO: Does the applicant have any concerns or reasons to fear returning to their home country?,58,60,1
+"EO: Has the applicant ever experienced domestic abuse by a partner, spouse, parent, or child?",60,80,1
+chr,,,
